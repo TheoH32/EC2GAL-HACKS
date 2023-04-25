@@ -20,10 +20,10 @@
     </ol>
     <div class="carousel-inner">
       <div class="item active">
-        <img src="images/g5.jpeg" alt="Los Angeles">
+        <img src="images/g5.webp" alt="Los Angeles">
       </div>
       <div class="item">
-        <img src="images/g3.webp" alt="Chicago">
+        <img src="images/g3.jpeg" alt="Chicago">
       </div>
       <div class="item">
         <img src="images/g6.webp" alt="New York">
